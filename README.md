@@ -7,10 +7,10 @@ A dark GNOME3 shell theme based on Black Maia. It features a few performance imp
 
 > cantarell-fonts
 ## Installation
-> git clone https://github.com/HonusDaniel/Philosophy
+> $ git clone https://github.com/HonusDaniel/Philosophy
 
 
-> cp -r Philosophy/ ~/.themes
+> $ cp -r Philosophy/ ~/.themes
 
 
 ![](Philosophy.jpg)
