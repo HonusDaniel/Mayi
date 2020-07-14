@@ -4,6 +4,8 @@ A dark GNOME3 shell theme based on Black Maia. It features a few performance imp
 ## Dependencies
 > gnome
 
+> Dash to dock gnome extension - https://extensions.gnome.org/extension/307/dash-to-dock/
+
 
 > cantarell-fonts
 ## Installation
