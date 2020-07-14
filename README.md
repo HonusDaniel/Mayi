@@ -1,5 +1,5 @@
 # Philosophy
-A dark GNOME https://extensions.gnome.org/extension/307/dash-to-dock/3 shell theme based on Black Maia. It features a few performance improvements and a more pleasing design. Uses the Cantarell font.
+A dark GNOME shell theme based on Black Maia. It features a few performance improvements and a more pleasing design. Uses the Cantarell font.
 
 ## Dependencies
 > GNOME 3.36 or later
