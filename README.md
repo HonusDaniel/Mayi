@@ -8,7 +8,13 @@ A dark GNOME shell theme based on Black Maia. It features a few performance impr
 > Dash to dock gnome extension - https://extensions.gnome.org/extension/307/dash-to-dock/
 
 
+> User Themes gnome extension - https://extensions.gnome.org/extension/19/user-themes/
+
+
 > cantarell-fonts
+
+
+> Gnome Tweaks
 ## Installation
 > $ git clone https://github.com/HonusDaniel/Philosophy
 
