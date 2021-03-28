@@ -16,10 +16,10 @@ A dark GNOME shell theme based on Black Maia. It features a few performance impr
 
 > Gnome Tweaks
 ## Installation
-> $ git clone https://github.com/HonusDaniel/Philosophy
+> $ git clone https://github.com/HonusDaniel/Mayi
 
 
-> $ cp -r Philosophy/ ~/.themes
+> $ cp -r Mayi/ ~/.themes
 
 
 ![](Philosophy.jpg)
