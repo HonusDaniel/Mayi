@@ -1,4 +1,4 @@
-# Philosophy
+# Mayi
 A dark GNOME shell theme based on Black Maia. It features a few performance improvements and a more pleasing design. Uses the Cantarell font.
 
 ## Dependencies
